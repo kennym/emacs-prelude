@@ -1,0 +1,3 @@
+[submodule "vendor/evil-mode"]
+	path = vendor/evil-mode
+	url = git://gitorious.org/evil/evil.git
